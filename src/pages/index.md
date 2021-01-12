@@ -244,10 +244,7 @@ sections:
     background_color: secondary
   - type: cta_section
     title: ''
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: ''
     actions:
       - label: Learn More
         url: /features
